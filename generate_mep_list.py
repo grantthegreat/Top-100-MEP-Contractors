@@ -172,7 +172,7 @@ html_content = """
 """
 
 # Write the HTML content to a file
-with open('mep_contractors_list.html', 'w') as f:
+with open('index.html', 'w') as f:
     f.write(html_content)
 
-print("HTML file 'mep_contractors_list.html' has been generated.")
+print("HTML file 'index.html' has been generated.")
